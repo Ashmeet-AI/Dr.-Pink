@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dr. Pinkie Feinstein (MVP)",
+  "description": "A psycho-creative community space for emotional expression, witnessing, and slow creativity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
